@@ -1,0 +1,6 @@
+interface:
+  display_name: "Threads Workflow"
+  short_description: "Контент Threads, обсуждения и эксперименты для роста"
+  default_prompt: "Используй $threads-workflow, чтобы подготовить пост для моей аудитории из предоставленных материалов."
+policy:
+  allow_implicit_invocation: true
