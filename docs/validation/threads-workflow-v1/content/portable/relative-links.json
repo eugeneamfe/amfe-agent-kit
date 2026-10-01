@@ -1,0 +1,42 @@
+[
+  {
+    "file": "SKILL.md",
+    "link": "LICENSE",
+    "exists": true
+  },
+  {
+    "file": "SKILL.md",
+    "link": "references/content.md",
+    "exists": true
+  },
+  {
+    "file": "SKILL.md",
+    "link": "references/profile.md",
+    "exists": true
+  },
+  {
+    "file": "SKILL.md",
+    "link": "assets/threads-profile.template.md",
+    "exists": true
+  },
+  {
+    "file": "SKILL.md",
+    "link": "references/browser.md",
+    "exists": true
+  },
+  {
+    "file": "SKILL.md",
+    "link": "references/analysis.md",
+    "exists": true
+  },
+  {
+    "file": "references/browser.md",
+    "link": "analysis.md",
+    "exists": true
+  },
+  {
+    "file": "references/profile.md",
+    "link": "../assets/threads-profile.template.md",
+    "exists": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "LICENSE": "a4dbe14f373d8b51b841173176a2fbe25c6f0c035f0f02d950cf18664fe55908",
+  "SKILL.md": "4d6953967873326e5ef85311fa947f60a778f673cb244d1440cbbc11fe530922",
+  "references/browser.md": "57b23cb8aa995b48c3cf026a99cff305b9901209f7cdbdc59ba45060e93f14b8",
+  "references/content.md": "636abb2a35a11c1af31eeb154a49f6ff38c82ac43a62ae22b9139508c1c70db7",
+  "references/analysis.md": "ca5576180e97f9d8d853afc6c572778f0efe9e659ae8e8c39cac3622193598c7",
+  "references/profile.md": "26bcf316d97c9363289c6ac0ce19ee2356299f0b51b185fb4a899bf1338114b3",
+  "agents/openai.yaml": "531a3380b6789d5343dc9ef950c25510864b991eecf130949fe8fc9a9c5ebad7",
+  "assets/threads-profile.template.md": "05735044d583878ba4ee3f49f3eb4f9c309a6e780ca74b7afa63dbb475e3e6db"
+}
